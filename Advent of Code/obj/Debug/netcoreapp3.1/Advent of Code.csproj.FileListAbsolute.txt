@@ -1,0 +1,14 @@
+C:\Repos\Advent of Code\Advent of Code\bin\Debug\netcoreapp3.1\Advent of Code.exe
+C:\Repos\Advent of Code\Advent of Code\bin\Debug\netcoreapp3.1\Advent of Code.deps.json
+C:\Repos\Advent of Code\Advent of Code\bin\Debug\netcoreapp3.1\Advent of Code.runtimeconfig.json
+C:\Repos\Advent of Code\Advent of Code\bin\Debug\netcoreapp3.1\Advent of Code.runtimeconfig.dev.json
+C:\Repos\Advent of Code\Advent of Code\bin\Debug\netcoreapp3.1\Advent of Code.dll
+C:\Repos\Advent of Code\Advent of Code\bin\Debug\netcoreapp3.1\Advent of Code.pdb
+C:\Repos\Advent of Code\Advent of Code\obj\Debug\netcoreapp3.1\Advent of Code.csproj.AssemblyReference.cache
+C:\Repos\Advent of Code\Advent of Code\obj\Debug\netcoreapp3.1\Advent of Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Advent of Code\Advent of Code\obj\Debug\netcoreapp3.1\Advent of Code.AssemblyInfoInputs.cache
+C:\Repos\Advent of Code\Advent of Code\obj\Debug\netcoreapp3.1\Advent of Code.AssemblyInfo.cs
+C:\Repos\Advent of Code\Advent of Code\obj\Debug\netcoreapp3.1\Advent of Code.csproj.CoreCompileInputs.cache
+C:\Repos\Advent of Code\Advent of Code\obj\Debug\netcoreapp3.1\Advent of Code.dll
+C:\Repos\Advent of Code\Advent of Code\obj\Debug\netcoreapp3.1\Advent of Code.pdb
+C:\Repos\Advent of Code\Advent of Code\obj\Debug\netcoreapp3.1\Advent of Code.genruntimeconfig.cache
