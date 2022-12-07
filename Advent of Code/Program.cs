@@ -15,7 +15,8 @@ namespace Advent_of_Code {
         if(int.TryParse(input, out day)) { 
           switch(day) {
             case 1:
-              Console.WriteLine("output: " + (DayOne()[0].Sum + DayOne()[1].Sum + DayOne()[2].Sum));
+              Console.WriteLine("Part 1: " + DayOne()[0].Sum);
+              Console.WriteLine("Part 2: " + (DayOne()[0].Sum + DayOne()[1].Sum + DayOne()[2].Sum));
               break;
           }
         }
